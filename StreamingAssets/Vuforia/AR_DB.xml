@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="ferrero-rocher-16-piece" size="50.000000 50.000000" />
+    <ImageTarget name="sunscrean" size="50.000000 66.666664" />
+    <ImageTarget name="Dm" size="50.000000 66.666664" />
+    <ImageTarget name="scent" size="50.000000 66.666664" />
+  </Tracking>
+</QCARConfig>
